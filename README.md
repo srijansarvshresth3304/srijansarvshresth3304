@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Piyush!
+### Hi there 👋 I'm Srijan Sarvshresth!
 
 - 🔭 I’m currently working on **real-time canvas-based emotion visualizers** and **full-stack web apps** like Bookmark Manager and Mind Mirror.
 - 🤝 I’m looking to collaborate on **creative front-end projects**, **JavaScript mini-games**, and **open-source tools that help students or developers.**
